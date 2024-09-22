@@ -4,7 +4,7 @@
 The Discord Promo Generator is a powerful and versatile tool designed to create custom promotions within your Discord server. Based on a request system, it allows you to generate dynamic and engaging promotions tailored to your specific needs. 
 
 ### How does it work?
-* **Request-based system:** Send a request to the Chess.com website, creating a new account and the bot will automatically generate a unique promotion. 
+* **Request-based system:** The tool send a request to the Chess.com website, creating a new account and automatically generate a unique promotion. 
 * **Proxy usage:** Will not work without a proxy. 
 
 ### Example image
